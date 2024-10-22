@@ -1,0 +1,1 @@
+created a new struct (Movie) and the struct contains fields (ID,Isbn,Title,Director)
